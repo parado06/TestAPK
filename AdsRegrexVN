@@ -39,13 +39,13 @@
     { "icon": "youtube.png", "url": "https://t.me/testerbrick" }
   ],
   "moreApps": [
-    { "name": "CapCut Pro", "icon": "apps/capcut.png", "url": "https://t.me/testerbrick" },
-    { "name": "Spotify", "icon": "apps/spotify.png", "url": "https://t.me/testerbrick" },
-    { "name": "Telegram", "icon": "apps/telegram.png", "url": "https://t.me/testerbrick" },
-    { "name": "YouTube", "icon": "apps/youtube.png", "url": "https://t.me/testerbrick" },
-    { "name": "Lightroom", "icon": "apps/lightroom.png", "url": "https://t.me/testerbrick" },
-    { "name": "Picsart", "icon": "apps/picsart.png", "url": "https://t.me/testerbrick" },
-    { "name": "Alight Motion", "icon": "apps/alightmotion.png", "url": "https://t.me/testerbrick" },
-    { "name": "PhotoRoom", "icon": "apps/photoroom.png", "url": "https://t.me/testerbrick" }
+    { "name": "Codec VN", "icon": "apps/codec.png", "url": "https://t.me/testerbrick" },
+    { "name": "NP Manager", "icon": "apps/npmanager.png", "url": "https://t.me/testerbrick" },
+    { "name": "SetEdit VN", "icon": "apps/setedit.png", "url": "https://t.me/testerbrick" },
+    { "name": "Shizuku", "icon": "apps/shizuku.png", "url": "https://t.me/testerbrick" },
+    { "name": "Developer VN", "icon": "apps/developer.png", "url": "https://t.me/testerbrick" },
+    { "name": "MT Manager VN", "icon": "apps/mtmanager.png", "url": "https://t.me/testerbrick" },
+    { "name": "Apk Editor", "icon": "apps/apkeditor.png", "url": "https://t.me/testerbrick" },
+    { "name": "Modder Hub", "icon": "apps/modderhub.png", "url": "https://t.me/testerbrick" }
   ]
 }
